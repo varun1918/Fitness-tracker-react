@@ -1,0 +1,102 @@
+.title{
+  margin-top: 30px;
+}
+.workoutGif {
+    transform: scale(1.7);
+  }
+  
+  .cyclingGif {
+    transform: scale(1.3);
+  }
+  
+  .caloriesBurnedValue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 13vh;
+  }
+  
+  .workoutTabs > div > div > ul {
+    justify-content: center;
+  }
+  
+  .workoutTabHeader > a {
+    color: #4b5563;
+  }
+  
+  .dashbaordCardRow {
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+  
+  .workoutName {
+    margin-top: 12%;
+  }
+  
+  .meterGroupDiv {
+    padding: 0px 75px 20px 75px;
+  }
+  
+  .overAll {
+    padding: 0px 73px 0px 73px;
+  }
+  
+  .myWorkoutNavDiv {
+    text-align: end;
+    padding: 7px 50px 0px 50px;
+  }
+  
+  .myWorkoutNavBtn {
+    height: 50px;
+    border-radius: 25px;
+    font-size: 17px;
+    margin-right: 10px;
+  }
+  
+  .myWorkoutTabs {
+    margin-top: -13px;
+  }
+  
+  .dashboardOverallDonut {
+    height: 6.2em;
+  }
+  
+  .dashboardOverallDonut > canvas {
+    height: 130px !important;
+    width: 130px !important;
+    top: -21px;
+    position: absolute;
+  }
+  
+  .cyclingDiv {
+    display: inline-flex;
+    gap: 20px;
+    padding: 5px 45px 20px 45px;
+  }
+  
+  .cyclingInput > input {
+    width: 5em;
+    height: 2em;
+    text-align: center;
+  }
+  
+  .cyclingMinutesLbl {
+    margin-left: -17px;
+    margin-top: 9px;
+  }
+  
+  .myWorkoutDialogBox {
+    width: 50vw;
+  }
+  
+  @media (max-width: 900px) {
+    .myWorkoutDialogBox {
+      width: 80vw;
+    }
+  }
+  
+  @media (max-width: 550px) {
+    .myWorkoutDialogBox {
+      width: 100vw;
+    }
+  }

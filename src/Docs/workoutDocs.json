@@ -1,0 +1,173 @@
+{
+    "Leg": {
+      "Squats": {
+        "Calories": 2,
+        "Descriptions": "Squats are considered a vital exercise for increasing the strength and size of the lower body muscles as well as developing core strength.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Lunge": {
+        "Calories": 1,
+        "Descriptions": "Stand with your feet hip-width apart. Step forward and bend both knees, lowering until your knees are bent at a 90-degree angle. Shift forward onto the lead leg.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Step-Ups": {
+        "Calories": 1,
+        "Descriptions": "A step-up is a simple body resistance exercise that works muscles in the legs and buttocks. A step-up targets the quadriceps, here, and hamstrings, here, as well as the gluteal muscles in the buttocks.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Single-Leg DeadLift": {
+        "Calories": 2,
+        "Descriptions": "Stand on one leg while holding a kettlebell with the opposite-side hand. Keeping your back straight and a soft bend in your knees, begin to lean forward at the waist, performing a stiff-leg deadlift maneuver.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      }
+    },
+    "Shoulder": {
+      "Lateral Raise": {
+        "Calories": 2,
+        "Descriptions": "Lateral raises muscles worked primarily include the lateral deltoid muscles. Because of the rotating movement, you'll use your front deltoids and upper traps a little bit, too.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Reverse Fly": {
+        "Calories": 3,
+        "Descriptions": "To do a reverse fly with dumbbells, sit with your knees bent and hold a dumbbell in each hand. Lean forward, letting your arms hang down next to your calves with your elbows slightly bent.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Barbell Front Raise": {
+        "Calories": 1,
+        "Descriptions": "The barbell front raise requires performers to sweep the barbell from hip height away from the body in an arc direction until the barbell and arms reach shoulder height.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Face Pull": {
+        "Calories": 2.5,
+        "Descriptions": "Face pulls use a cable machine with a rope attachment to train the rear deltoids, the muscles in the back of the shoulders, with support from the traps, rhomboids and rotator cuff.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      }
+    },
+    "Back": {
+      "Dead Lift": {
+        "Calories": 2.5,
+        "Descriptions": "The Deadlift is one of the most functional and basic exercises there is. The goal of the exercise is to bend down, grab an object on the floor, and lift it off the floor.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Pull-Up": {
+        "Calories": 1.5,
+        "Descriptions": "A pullup is a challenging upper body exercise where you grip an overhead bar and lift your body until your chin is above that bar.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Lat Pull-Down": {
+        "Calories": 1,
+        "Descriptions": "The lat pulldown is an upper-body exercise that focuses on the muscles of your back.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Seated Row": {
+        "Calories": 1,
+        "Descriptions": "Pull the band across your thighs with an exhale, keeping your elbows tucked in and your back neutral. Pause for a second and slowly extend your arm with an inhale.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      }
+    },
+    "Arms": {
+      "Push Ups": {
+        "Calories": 1,
+        "Descriptions": "It is a closed kinetic chain exercise that requires no tools and uses the body weight for resistance. It has many variations, so it can be adjusted according to the fitness level.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Triceps Extension": {
+        "Calories": 2,
+        "Descriptions": "To do a triceps extension, lie on your back with a dumbbell in your hand. Point your upper arm toward the ceiling, with your elbow bent to 90 degrees. Slowly straighten the elbow, moving the weight upward.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Preacher Curl": {
+        "Calories": 1,
+        "Descriptions": "The preacher curl is a variation of the traditional biceps curl. It is an isolation bicep exercise that allows you to practice your lifting form with a controlled movement supported by a preacher bench.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Biceps Curl": {
+        "Calories": 3,
+        "Descriptions": "To do a biceps curl with a dumbbell, hold a dumbbell with your palm facing upward. Slowly curl the weight up by bending your elbow, keeping your elbow close to your body. Then slowly lower the weight to the starting position.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      }
+    },
+    "Chest": {
+      "Cable Crossover": {
+        "Calories": 1,
+        "Descriptions": "Cable crossovers target the pectoralis major muscles' sternal heads, found in the bottom of your chest as well as activating muscles in your shoulder and back.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Chest Flys": {
+        "Calories": 1,
+        "Descriptions": "Hold one dumbbell in each hand and lie on your back with them raised above you so that your palms face each other. This will be your starting position. Now lower the dumbbells to the side in a wide arc until you feel a stretch on your chest.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Chest Dip": {
+        "Calories": 3.5,
+        "Descriptions": "Position your body so that your feet are off the ground and arms are straight. Begin the chest dip by bending at the elbows and lowering your body down. Maintain a slight forward lean to emphasize the strain on your chest.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      },
+      "Floor Press": {
+        "Calories": 2,
+        "Descriptions": "Keep your knees bent, and raise the weights by extending your arms until your elbows are locked out.",
+        "Reps": 20,
+        "Sets": 3,
+        "Status": 0,
+        "CaloriesBurned": 120
+      }
+    },
+    "Cycling": 0
+  }
